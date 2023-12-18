@@ -39,7 +39,4 @@ Finally, alpha blending is applied to the glasses and the image.
 
 A sample output is shown below:
 
-![c2_project1_virtual_makeup](https://github-production-user-asset-6210df.s3.amazonaws.com/47062478/245331399-de0639a1-67dd-4db8-87fe-50acd0055cc5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230810%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230810T125433Z&X-Amz-Expires=300&X-Amz-Signature=8615e524f386d3430b15a0b2ac346997967afc2b200fa056b8d74a635edc33a1&X-Amz-SignedHeaders=host&actor_id=55636313&key_id=0&repo_id=652431672)
-
-
----
+![245331399-de0639a1-67dd-4db8-87fe-50acd0055cc5](https://github.com/j13Lucas/virtual-makeup/assets/141825992/56e565ec-3e3c-408f-8388-11c7ba91fe8d)
